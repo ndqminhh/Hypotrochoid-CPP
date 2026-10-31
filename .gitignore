@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+
+# Build files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.exe
+*.dll
+
+# User-specific settings
+*.user
+*.suo
+
+# vcpkg
+vcpkg_installed/

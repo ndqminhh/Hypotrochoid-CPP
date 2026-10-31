@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HypotrochoidProject/HypotrochoidProject.vcxproj" Id="6c2b51ca-0d3d-4b6b-93d6-437215fef418" />
+</Solution>
